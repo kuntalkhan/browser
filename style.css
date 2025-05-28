@@ -93,3 +93,22 @@ body{
     left: 50%;
     transform: translateX(-50%);
 }
+
+.footer{
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 0.8em;
+    color: white;
+    background-color: #555555;
+    height: 30px;
+    line-height: 30px;
+    width: 100%;
+    text-align: center;
+}
+
+.footer a{
+    color: #59b2ff;
+    text-decoration: none;
+}
