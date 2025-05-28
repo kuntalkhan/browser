@@ -32,19 +32,10 @@ A sleek and minimalistic browser interface built with HTML, CSS, and JavaScript.
 
 ---
 
-## 📸 Screenshots
-
-> *(Replace with real screenshots later)*
-
-![Search Bar](https://via.placeholder.com/600x100?text=Search+Bar)
-![Website Embed](https://via.placeholder.com/600x300?text=Embedded+Website)
-
----
-
 ## 🧪 Demo
 
-Try it live (host it using GitHub Pages, Netlify, or Vercel):
-> 🔗 *Coming Soon...*
+Try it live:
+> 🔗 https://kuntalkhan.github.io/browser/
 
 ---
 
